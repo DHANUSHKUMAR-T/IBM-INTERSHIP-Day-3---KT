@@ -7,6 +7,7 @@ It allows users to manage student records using a React frontend and a Node.js &
 
 This project demonstrates the implementation of RESTful APIs and basic CRUD operations.
 
+<img width="1187" height="906" alt="Image" src="https://github.com/user-attachments/assets/dd3aaa4a-dfc6-4420-8b6e-8c2bf1035851" />
 ---
 
 ## Technologies Used
@@ -77,6 +78,8 @@ POST | /api/students | Add a new student
 PUT | /api/students/:id | Update student details
 DELETE | /api/students/:id | Delete a student
 
+
+<img width="1379" height="727" alt="Image" src="https://github.com/user-attachments/assets/6efba0db-f8e4-4946-9bce-e435c9930dcb" />
 ---
 
 ## Features
